@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The Data Cloud Native App Deployment and Cloud Marketplace ecosystem represents an estimated **$30B+** addressable market, projected to expand past **$150B+ by 2030** driven by enterprise cloud commitments and data-native AI application frameworks. The infrastructure and marketplace hosting layer is **highly concentrated** among an oligopoly of hyperscalers and data giants (Microsoft, AWS, Google Cloud, Salesforce, Databricks, Snowflake) operating under winner-take-most platform network effects, while the application and embedded integration layer atop them remains **moderately fragmented** with specialized ISVs and developer tooling vendors competing for marketplace distribution.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Snowflake Native App Framework](https://docs.snowflake.com/en/developer-guide/native-apps/native-apps-about)**
-
-  **Framework for building data applications that run natively inside Snowflake**. **Features**: Provider/consumer model—providers share data and business logic via application packages; consumers install as database objects . Supports Streamlit apps, stored procedures, and Snowpark functions. Distribution via **Snowflake Marketplace** (free or paid listings) or private listings. **Snowpark Container Services** enables containerized workloads . **Pricing**: Consumption-based (Snowflake credits); Marketplace listings can be paid. **Free tier**: Trial credits. **Best for**: Snowflake customers wanting to monetize data apps without data leaving the warehouse—**trade-off**: requires Snowflake ecosystem; application packages have manifest/install script complexity.
-
-
-
-- **[Databricks Apps](https://www.databricks.com/)**
-
-  **Serverless app hosting within Databricks Lakehouse**. **Features**: Build with Streamlit, Dash, or Gradio; deploy via Databricks CLI; **Unity Catalog integration** ensures apps inherit granular data permissions—users only access authorized data, all interactions auditable . **AppKit SDK** forwards user tokens so row/column-level security applies automatically . **Pricing**: Consumption-based (DBUs). **Free tier**: Community Edition limited. **Best for**: Databricks customers wanting secure internal data apps without separate infrastructure—**trade-off**: Python frameworks only; requires Databricks workspace.
-
-
-
-- **[Workato Embedded](https://docs.workato.com/en/oem/partner-program)**
-
-  **Embedded iPaaS for SaaS vendors**. **Features**: Integrate Workato into your product via iframe, branded redirect, or managed integration model; **recipe compliance checks** ensure recipes only interact with your app; referral program earns 10% of customer's first-year ARR as credit . **Pricing**: Enterprise pricing; base workspace ~$10K/year, mid-market $30K–$80K, enterprise $150K–$400K+ . **Free tier**: None. **Best for**: SaaS vendors wanting customer-facing integrations without building connector infrastructure—**trade-off**: exposes Workato's recipe builder UI, not fully white-labeled .
-
-
-
-- **[Salesforce AppExchange](https://appexchange.salesforce.com/)**
-
-  **Enterprise app marketplace** for Salesforce ecosystem. **Features**: Partners must follow security requirements including **PKCE and Refresh Token Rotation** for Connected Apps/ECAs by May 2026; non-compliance risks de-listing . **Pricing**: Revenue share; security review required. **Free tier**: Free apps available. **Best for**: ISVs building on Salesforce wanting enterprise distribution—**trade-off**: strict security compliance; revenue share.
-
-
-
-- **[Shopify App Platform](https://shopify.dev/docs/apps/build)**
-
-  **App development for Shopify merchants**. **Features**: Apps run inside Shopify surfaces using Polaris web components; extensions for Admin, Checkout, Customer Accounts, POS; **Shopify CLI** scaffolds and deploys; **Dev Dashboard** manages credentials and logs . **Pricing**: 15% revenue share (0% for first $1M for eligible developers from 2025) . **Free tier**: Yes, for eligible developers. **Best for**: developers wanting distribution to millions of Shopify merchants—**trade-off**: review process; surface-specific rules.
-
-
-
-- **[Stripe Apps](https://docs.stripe.com/stripe-apps)**
-
-  **Custom UI and integrations inside Stripe Dashboard**. **Features**: Build custom interfaces; authenticate third-party users; listen for events; automate workflows; distribute privately or via Stripe Apps Marketplace . **Pricing**: Free to develop; revenue share for paid apps. **Free tier**: Yes. **Best for**: developers wanting to extend Stripe for merchants—**trade-off**: Stripe ecosystem lock-in.
-
-
-
-- **[AWS Marketplace](https://aws.amazon.com/marketplace)**
-
-  **Cloud software marketplace** with enterprise procurement integration. **Pricing**: AWS takes a percentage of sales; private offers available. **Free tier**: Free trials available. **Best for**: software vendors wanting enterprise distribution through AWS procurement.
-
-
-
-- **[Google Cloud Marketplace](https://cloud.google.com/marketplace)**
-
-  **Cloud software marketplace** for GCP customers. **Pricing**: Revenue share model. **Free tier**: Free trials available. **Best for**: vendors wanting GCP customer distribution.
-
-
-
-- **[Microsoft AppSource](https://appsource.microsoft.com/)**
-
-  **Business app marketplace** for Microsoft 365, Dynamics 365, and Power Platform. **Pricing**: Revenue share model. **Free tier**: Free trials available. **Best for**: Microsoft partners wanting enterprise distribution.
-
-
-
-- **[Heroku Elements](https://elements.heroku.com/)**
-
-  **Add-on marketplace for Heroku apps**. **Pricing**: Revenue share; add-on pricing varies. **Free tier**: Free add-ons available. **Best for**: developers wanting to extend Heroku apps with third-party services.
-
-
+| Platform | Company Valuation / Market Cap | Pricing (Specific Starting Tiers) | Free Tier Limits (Forever Plan or Free Trial) | Key Capabilities & Ecosystem |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft AppSource](https://appsource.microsoft.com/)** | ~$3.1T Market Cap (Microsoft) | **3%** store service fee on transactable sales; $0 listing fee for non-transacting offers | **30-day free trial** with full software feature access; requires active Microsoft/Azure billing account | Commercial marketplace storefront for Microsoft 365, Dynamics 365, and Power Platform apps. |
+| **[AWS Marketplace](https://aws.amazon.com/marketplace)** | ~$2.2T Market Cap (Amazon) | **3.0%** listing fee on SaaS and AWS Data Exchange (<$1M TCV); scales to **2.0%** ($1M–$10M) and **1.5%** (≥$10M); 20% on AMIs/containers | **Free trial configured per seller** (typically 15 to 30 days) covering software fees; AWS infrastructure usage billed separately; $0 marketplace listing creation fee | Central enterprise marketplace offering streamlined procurement, private offers, and automated billing through AWS accounts. |
+| **[Google Cloud Marketplace](https://cloud.google.com/marketplace)** | ~$2.1T Market Cap (Alphabet) | **3.0%** publisher revenue share for standard public and private offers under $1M; **2.0%** ($1M–$10M); **1.5%** (≥$10M) | **Free trial with seller-specified credit/days limit** (e.g., 30 days or $100–$500 software credit); underlying GCP compute/storage billed separately; Google Cloud offers 90-day/$300 trial for new GCP accounts (requires upgrade to paid billing for marketplace access) | Cloud software distribution and procurement platform integrated into Google Cloud customer billing. |
+| **[Salesforce AppExchange](https://appexchange.salesforce.com/)** | ~$320B Market Cap (Salesforce) | **15%** standard Percentage Net Revenue (PNR) share for paid apps; **$999** security review fee per submission attempt | **Perpetually free tier for free apps** ($0 security review fee, $0 revenue share); 30-day free trials typically offered for paid apps | Leading enterprise SaaS marketplace distributing connected apps and extensions with strict compliance and security reviews. |
+| **[Databricks Apps](https://www.databricks.com/)** | ~$134B Valuation (Late 2025 Series K/L) | **$0.07 to $0.55 per DBU** depending on compute tier and workload (Jobs vs. All-Purpose/Serverless Compute) | **14-day free trial** with up to $400 in Databricks usage credits; perpetually free **Community Edition** with single-micro-cluster allocation for non-commercial learning | Serverless application hosting inside Databricks Lakehouse with automatic Unity Catalog governance inheritance and AppKit SDK support. |
+| **[Shopify App Platform](https://shopify.dev/docs/apps/build)** | ~$115B Market Cap (Shopify) | **0%** revenue share on first **$1,000,000** lifetime gross revenue; **15%** revenue share above $1M threshold; **$19** one-time developer registration fee; 2.9% payment processing fee | **Perpetually free tier**: 0% rev share on first $1M gross app revenue for eligible partners; unlimited sandbox and development stores under Shopify Partner accounts | App store distribution reaching millions of Shopify merchants with Polaris UI components and checkout extensions. |
+| **[Stripe Apps](https://docs.stripe.com/stripe-apps)** | ~$91.5B Valuation (2025 Tender Offer) | **0%** marketplace revenue share; standard Stripe payment processing fee of **2.9% + $0.30** per transaction applies to billed payments | **Perpetually free tier**: $0 developer registration fee, free sandbox testing environment, and $0 platform fee for free marketplace apps | Extensions and custom UI integrations embedded directly inside the Stripe Merchant Dashboard. |
+| **[Snowflake Native App Framework](https://docs.snowflake.com/en/developer-guide/native-apps/native-apps-about)** | ~$60B Market Cap (Snowflake) | **$2.00/credit** (Standard Edition), **$3.00/credit** (Enterprise Edition), **$4.00/credit** (Business Critical Edition); compute billed per second (60s minimum) | **30-day free trial** with **$400** in platform credits (expires after 30 days or credit exhaustion) | Build, distribute, and monetize containerized and data applications running natively inside the consumer's Snowflake warehouse. |
+| **[Workato Embedded](https://docs.workato.com/en/oem/partner-program)** | ~$5.7B Valuation (Series E) | Base workspace starting at **$10,000/year**; mid-market deployments typically **$30,000–$80,000/year** | **Perpetually free self-service tier with a one-time grant of 50,000 credits** (does not renew monthly; expires once 50,000 credits are consumed across tasks/APIs) | Embedded integration platform (iPaaS) allowing SaaS software vendors to deliver white-labeled customer-facing integrations. |
+| **[Heroku Elements](https://elements.heroku.com/)** | Sub-unit of Salesforce (~$320B Parent Market Cap) | **30%** Heroku marketplace revenue share (70% net revenue paid to add-on partner); base developer dynos start at **$5/month** (Eco dynos pool) | **Perpetually free add-on plan tier** available for partner listings; dyno environment offers $5/mo shared pool of 1,000 Eco dyno hours that sleep after 30m inactivity | Add-on and integrations marketplace for Heroku PaaS developers and applications. |
 
 ## Open-Source GitHub Projects
 
