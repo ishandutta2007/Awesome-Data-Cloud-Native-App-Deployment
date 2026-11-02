@@ -70,113 +70,113 @@ Explore the top self-hosted open-source technologies spanning internal developer
 
 ### 📊 Unified Comparison Matrix
 
-The repositories below are **strictly sorted descending by GitHub star count**. Each badge is rendered with `style=social` and `color=white`, directly linking to the stargazers page of that repository:
+The repositories below are **strictly sorted descending by GitHub Stars_Count**. Each badge is rendered with `style=social` and `color=white`, directly linking to the stargazers page of that repository:
 
-| Rank | Repository | Stars (Social Badge) | Primary Category | Tech Stack | License |
+| Rank | Repository | GitHub_Stars (Social Badge) | Primary Category | Tech Stack | License |
 | :---: | :--- | :---: | :--- | :--- | :--- |
-| **01** | **[Apache Superset](https://github.com/apache/superset)** | [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Data Exploration & Embedded Apps | Python, TypeScript, React | Apache-2.0 |
-| **02** | **[Metabase](https://github.com/metabase/metabase)** | [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | Self-Service & Embedded Analytics | Clojure, TypeScript, React | AGPL-3.0 |
-| **03** | **[Streamlit](https://github.com/streamlit/streamlit)** | [![GitHub stars](https://img.shields.io/github/stars/streamlit/streamlit?style=social&color=white)](https://github.com/streamlit/streamlit/stargazers) | Python Data App Framework | Python, TypeScript, React | Apache-2.0 |
-| **04** | **[Gradio](https://github.com/gradio-app/gradio)** | [![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio?style=social&color=white)](https://github.com/gradio-app/gradio/stargazers) | Interactive ML & Data Apps | Python, TypeScript, Svelte | Apache-2.0 |
-| **05** | **[Backstage](https://github.com/backstage/backstage)** | [![GitHub stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | Internal Developer Portal (IDP) | TypeScript, Node.js, React | Apache-2.0 |
-| **06** | **[Plotly Dash](https://github.com/plotly/dash)** | [![GitHub stars](https://img.shields.io/github/stars/plotly/dash?style=social&color=white)](https://github.com/plotly/dash/stargazers) | Enterprise Data Apps & Dashboards | Python, JavaScript, React | MIT |
-| **07** | **[Temporal](https://github.com/temporalio/temporal)** | [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) | Resilient Workflow Orchestration | Go | MIT |
-| **08** | **[Prefect](https://github.com/prefecthq/prefect)** | [![GitHub stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social&color=white)](https://github.com/prefecthq/prefect/stargazers) | Data Pipeline & Workflow Engine | Python | Apache-2.0 |
-| **09** | **[Marimo](https://github.com/marimo-team/marimo)** | [![GitHub stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social&color=white)](https://github.com/marimo-team/marimo/stargazers) | Reactive Notebooks & Data Apps | Python, TypeScript | Apache-2.0 |
-| **10** | **[Cube](https://github.com/cube-js/cube)** | [![GitHub stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers) | Universal Semantic Layer & API | Rust, TypeScript | Apache-2.0 |
-| **11** | **[Taipy](https://github.com/Avaiga/taipy)** | [![GitHub stars](https://img.shields.io/github/stars/Avaiga/taipy?style=social&color=white)](https://github.com/Avaiga/taipy/stargazers) | Full-Stack Data & AI Applications | Python, React | Apache-2.0 |
-| **12** | **[Dagster](https://github.com/dagster-io/dagster)** | [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers) | Asset-Based Orchestrator | Python, React | Apache-2.0 |
-| **13** | **[Evidence](https://github.com/evidence-dev/evidence)** | [![GitHub stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers) | Code-Driven BI & Markdown Apps | Svelte, TypeScript, SQL | MIT |
-| **14** | **[Panel](https://github.com/holoviz/panel)** | [![GitHub stars](https://img.shields.io/github/stars/holoviz/panel?style=social&color=white)](https://github.com/holoviz/panel/stargazers) | High-Performance Data Exploration | Python, Bokeh, JavaScript | BSD-3-Clause |
-| **15** | **[Apache Gravitino](https://github.com/apache/gravitino)** | [![GitHub stars](https://img.shields.io/github/stars/apache/gravitino?style=social&color=white)](https://github.com/apache/gravitino/stargazers) | Federated Metadata Lakehouse Catalog | Java, Python | Apache-2.0 |
-| **16** | **[OpenChoreo](https://github.com/openchoreo/openchoreo)** | [![GitHub stars](https://img.shields.io/github/stars/openchoreo/openchoreo?style=social&color=white)](https://github.com/openchoreo/openchoreo/stargazers) | Kubernetes Internal Developer Platform | Go, Kubernetes | Apache-2.0 |
-| **17** | **[Flowfile](https://github.com/Edwardvaneechoud/Flowfile)** | [![GitHub stars](https://img.shields.io/github/stars/Edwardvaneechoud/Flowfile?style=social&color=white)](https://github.com/Edwardvaneechoud/Flowfile/stargazers) | Visual Data Pipelines & Delta Lake | Python, Polars, Delta Lake | Apache-2.0 |
+| **01** | **[Apache Superset](https://github.com/apache/superset)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Data Exploration & Embedded Apps | Python, TypeScript, React | Apache-2.0 |
+| **02** | **[Metabase](https://github.com/metabase/metabase)** | [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | Self-Service & Embedded Analytics | Clojure, TypeScript, React | AGPL-3.0 |
+| **03** | **[Streamlit](https://github.com/streamlit/streamlit)** | [![GitHub_Stars](https://img.shields.io/github/stars/streamlit/streamlit?style=social&color=white)](https://github.com/streamlit/streamlit/stargazers) | Python Data App Framework | Python, TypeScript, React | Apache-2.0 |
+| **04** | **[Gradio](https://github.com/gradio-app/gradio)** | [![GitHub_Stars](https://img.shields.io/github/stars/gradio-app/gradio?style=social&color=white)](https://github.com/gradio-app/gradio/stargazers) | Interactive ML & Data Apps | Python, TypeScript, Svelte | Apache-2.0 |
+| **05** | **[Backstage](https://github.com/backstage/backstage)** | [![GitHub_Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | Internal Developer Portal (IDP) | TypeScript, Node.js, React | Apache-2.0 |
+| **06** | **[Plotly Dash](https://github.com/plotly/dash)** | [![GitHub_Stars](https://img.shields.io/github/stars/plotly/dash?style=social&color=white)](https://github.com/plotly/dash/stargazers) | Enterprise Data Apps & Dashboards | Python, JavaScript, React | MIT |
+| **07** | **[Temporal](https://github.com/temporalio/temporal)** | [![GitHub_Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) | Resilient Workflow Orchestration | Go | MIT |
+| **08** | **[Prefect](https://github.com/prefecthq/prefect)** | [![GitHub_Stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social&color=white)](https://github.com/prefecthq/prefect/stargazers) | Data Pipeline & Workflow Engine | Python | Apache-2.0 |
+| **09** | **[Marimo](https://github.com/marimo-team/marimo)** | [![GitHub_Stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social&color=white)](https://github.com/marimo-team/marimo/stargazers) | Reactive Notebooks & Data Apps | Python, TypeScript | Apache-2.0 |
+| **10** | **[Cube](https://github.com/cube-js/cube)** | [![GitHub_Stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers) | Universal Semantic Layer & API | Rust, TypeScript | Apache-2.0 |
+| **11** | **[Taipy](https://github.com/Avaiga/taipy)** | [![GitHub_Stars](https://img.shields.io/github/stars/Avaiga/taipy?style=social&color=white)](https://github.com/Avaiga/taipy/stargazers) | Full-Stack Data & AI Applications | Python, React | Apache-2.0 |
+| **12** | **[Dagster](https://github.com/dagster-io/dagster)** | [![GitHub_Stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers) | Asset-Based Orchestrator | Python, React | Apache-2.0 |
+| **13** | **[Evidence](https://github.com/evidence-dev/evidence)** | [![GitHub_Stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers) | Code-Driven BI & Markdown Apps | Svelte, TypeScript, SQL | MIT |
+| **14** | **[Panel](https://github.com/holoviz/panel)** | [![GitHub_Stars](https://img.shields.io/github/stars/holoviz/panel?style=social&color=white)](https://github.com/holoviz/panel/stargazers) | High-Performance Data Exploration | Python, Bokeh, JavaScript | BSD-3-Clause |
+| **15** | **[Apache Gravitino](https://github.com/apache/gravitino)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/gravitino?style=social&color=white)](https://github.com/apache/gravitino/stargazers) | Federated Metadata Lakehouse Catalog | Java, Python | Apache-2.0 |
+| **16** | **[OpenChoreo](https://github.com/openchoreo/openchoreo)** | [![GitHub_Stars](https://img.shields.io/github/stars/openchoreo/openchoreo?style=social&color=white)](https://github.com/openchoreo/openchoreo/stargazers) | Kubernetes Internal Developer Platform | Go, Kubernetes | Apache-2.0 |
+| **17** | **[Flowfile](https://github.com/Edwardvaneechoud/Flowfile)** | [![GitHub_Stars](https://img.shields.io/github/stars/Edwardvaneechoud/Flowfile?style=social&color=white)](https://github.com/Edwardvaneechoud/Flowfile/stargazers) | Visual Data Pipelines & Delta Lake | Python, Polars, Delta Lake | Apache-2.0 |
 
 ---
 
 ### 🔎 In-Depth Project Profiles
 
-#### 1. [Apache Superset](https://github.com/apache/superset) [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)
+#### 1. [Apache Superset](https://github.com/apache/superset) [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)
 - **Overview**: Leading enterprise open-source data exploration and visualization platform capable of handling petabyte-scale data.
 - **Key Capabilities**: Rich dashboard and chart builder, SQL Lab query editor, semantic metrics layer, granular security models, and embedded SDK for embedding charts into web apps.
 - **Role in Stack**: Powers interactive user interfaces and embedded analytical dashboards directly on top of modern cloud warehouses.
 
-#### 2. [Metabase](https://github.com/metabase/metabase) [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)
+#### 2. [Metabase](https://github.com/metabase/metabase) [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)
 - **Overview**: Intuitive open-source business intelligence server designed for rapid self-service analytics and customer-facing embedded apps.
 - **Key Capabilities**: Visual question builder, interactive drill-downs, automatic dashboard generation, and signed embedding for multi-tenant customer applications.
 - **Role in Stack**: Turnkey reporting and customer-facing data app deployment for SaaS products.
 
-#### 3. [Streamlit](https://github.com/streamlit/streamlit) [![GitHub stars](https://img.shields.io/github/stars/streamlit/streamlit?style=social&color=white)](https://github.com/streamlit/streamlit/stargazers)
+#### 3. [Streamlit](https://github.com/streamlit/streamlit) [![GitHub_Stars](https://img.shields.io/github/stars/streamlit/streamlit?style=social&color=white)](https://github.com/streamlit/streamlit/stargazers)
 - **Overview**: The premier Python framework that turns data scripts into shareable web apps in minutes without frontend engineering.
 - **Key Capabilities**: Pure Python state management, reactive execution model, vast ecosystem of widgets, and native runtime in Snowflake (Snowpark) and Databricks Apps.
 - **Role in Stack**: Standard UI development framework for native apps on Snowflake and Databricks.
 
-#### 4. [Gradio](https://github.com/gradio-app/gradio) [![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio?style=social&color=white)](https://github.com/gradio-app/gradio/stargazers)
+#### 4. [Gradio](https://github.com/gradio-app/gradio) [![GitHub_Stars](https://img.shields.io/github/stars/gradio-app/gradio?style=social&color=white)](https://github.com/gradio-app/gradio/stargazers)
 - **Overview**: Rapid prototyping framework for machine learning models, generative AI interfaces, and interactive data apps.
 - **Key Capabilities**: Generates intuitive web UIs with zero HTML/CSS/JS, supports streaming outputs and multi-modal components (images, audio, chat), and easily embeds anywhere.
 - **Role in Stack**: Premier front-end for AI/ML and generative data applications running on Databricks Lakehouse Apps.
 
-#### 5. [Backstage](https://github.com/backstage/backstage) [![GitHub stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers)
+#### 5. [Backstage](https://github.com/backstage/backstage) [![GitHub_Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers)
 - **Overview**: CNCF Incubation internal developer portal platform created by Spotify to organize microservices, data apps, and documentation.
 - **Key Capabilities**: Software Catalog, Software Templates (scaffolding new services), TechDocs (docs-as-code), and hundreds of modular ecosystem plugins.
 - **Role in Stack**: Developer portal and internal software marketplace for standardizing data app scaffolding, ownership, and discovery.
 
-#### 6. [Plotly Dash](https://github.com/plotly/dash) [![GitHub stars](https://img.shields.io/github/stars/plotly/dash?style=social&color=white)](https://github.com/plotly/dash/stargazers)
+#### 6. [Plotly Dash](https://github.com/plotly/dash) [![GitHub_Stars](https://img.shields.io/github/stars/plotly/dash?style=social&color=white)](https://github.com/plotly/dash/stargazers)
 - **Overview**: Low-code framework for building enterprise-grade data applications with complex reactive analytics and charts.
 - **Key Capabilities**: Direct integration with Plotly visualization engine, Flask backend, React UI wrappers, and full styling customization.
 - **Role in Stack**: Powers analytical dashboards and data applications deployed natively on Databricks Apps or self-hosted Kubernetes clusters.
 
-#### 7. [Temporal](https://github.com/temporalio/temporal) [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)
+#### 7. [Temporal](https://github.com/temporalio/temporal) [![GitHub_Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)
 - **Overview**: Durable workflow execution engine ensuring code execution completes reliably even across process failure or network partitions.
 - **Key Capabilities**: Code-as-workflows (Go, Python, TypeScript, Java), automatic state persistence, retry policies, timers, and distributed transactions.
 - **Role in Stack**: Provides the mission-critical reliable backend execution layer for multi-step cloud data app workflows and long-running provisioning tasks.
 
-#### 8. [Prefect](https://github.com/prefecthq/prefect) [![GitHub stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social&color=white)](https://github.com/prefecthq/prefect/stargazers)
+#### 8. [Prefect](https://github.com/prefecthq/prefect) [![GitHub_Stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social&color=white)](https://github.com/prefecthq/prefect/stargazers)
 - **Overview**: Python-native workflow orchestration system built for modern distributed data applications and pipelines.
 - **Key Capabilities**: Dynamic task generation, async Python support, observable execution states, distributed worker infrastructure, and native cloud deployment triggers.
 - **Role in Stack**: Orchestrates the automated data pipelines and ETL processes feeding native data applications.
 
-#### 9. [Marimo](https://github.com/marimo-team/marimo) [![GitHub stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social&color=white)](https://github.com/marimo-team/marimo/stargazers)
+#### 9. [Marimo](https://github.com/marimo-team/marimo) [![GitHub_Stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social&color=white)](https://github.com/marimo-team/marimo/stargazers)
 - **Overview**: Next-generation reactive Python notebook that doubles as a reproducible data application builder and script runner.
 - **Key Capabilities**: Directed acyclic graph (DAG) reactive execution, zero hidden state, pure Python file serialization (`.py`), and seamless export to standalone interactive web apps.
 - **Role in Stack**: Modern reactive notebook environment for exploratory analysis that compiles instantly into deployable data apps.
 
-#### 10. [Cube](https://github.com/cube-js/cube) [![GitHub stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers)
+#### 10. [Cube](https://github.com/cube-js/cube) [![GitHub_Stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers)
 - **Overview**: Universal semantic layer designed to connect data stores to any application or business intelligence tool.
 - **Key Capabilities**: Centralized data modeling, SQL/REST/GraphQL APIs, high-performance pre-aggregations cache, and multi-tenant security controls.
 - **Role in Stack**: Decouples data application logic from underlying data warehouses (Snowflake, Databricks, BigQuery) for consistent metrics computation.
 
-#### 11. [Taipy](https://github.com/Avaiga/taipy) [![GitHub stars](https://img.shields.io/github/stars/Avaiga/taipy?style=social&color=white)](https://github.com/Avaiga/taipy/stargazers)
+#### 11. [Taipy](https://github.com/Avaiga/taipy) [![GitHub_Stars](https://img.shields.io/github/stars/Avaiga/taipy?style=social&color=white)](https://github.com/Avaiga/taipy/stargazers)
 - **Overview**: Full-stack Python framework specifically engineered for building production-ready data and AI applications.
 - **Key Capabilities**: Pre-built graphical UI components, integrated pipeline orchestrator, scenario and what-if analysis engine, and high-concurrency architecture.
 - **Role in Stack**: Builds end-to-end operational data applications with integrated backend pipelines without juggling separate orchestration tools.
 
-#### 12. [Dagster](https://github.com/dagster-io/dagster) [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)
+#### 12. [Dagster](https://github.com/dagster-io/dagster) [![GitHub_Stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)
 - **Overview**: Cloud-native data orchestrator focused on software-defined assets and development lifecycle.
 - **Key Capabilities**: Asset-oriented data cataloging, rich local development and unit testing harness, lineage tracking, and declarative scheduling.
 - **Role in Stack**: Manages data dependencies and ensures governed upstream data feeds for lakehouse native apps.
 
-#### 13. [Evidence](https://github.com/evidence-dev/evidence) [![GitHub stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)
+#### 13. [Evidence](https://github.com/evidence-dev/evidence) [![GitHub_Stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)
 - **Overview**: Open-source framework for building high-performance data applications and reports using Markdown and SQL.
 - **Key Capabilities**: DuckDB-powered in-memory querying, fast Svelte rendering, git-based version control, and static site deployment to any cloud CDN.
 - **Role in Stack**: Delivers instant, lightning-fast static and interactive analytical reports without traditional heavy BI server infrastructure.
 
-#### 14. [Panel](https://github.com/holoviz/panel) [![GitHub stars](https://img.shields.io/github/stars/holoviz/panel?style=social&color=white)](https://github.com/holoviz/panel/stargazers)
+#### 14. [Panel](https://github.com/holoviz/panel) [![GitHub_Stars](https://img.shields.io/github/stars/holoviz/panel?style=social&color=white)](https://github.com/holoviz/panel/stargazers)
 - **Overview**: Powerful Python library for creating complex interactive dashboards and apps from Jupyter notebooks or standalone scripts.
 - **Key Capabilities**: Deep integration with PyData ecosystem (Bokeh, Matplotlib, Plotly, Altair), support for massive streaming datasets, and WebAssembly (Pyodide) browser execution.
 - **Role in Stack**: Enterprise scientific data app and complex dashboard deployment.
 
-#### 15. [Apache Gravitino](https://github.com/apache/gravitino) [![GitHub stars](https://img.shields.io/github/stars/apache/gravitino?style=social&color=white)](https://github.com/apache/gravitino/stargazers)
+#### 15. [Apache Gravitino](https://github.com/apache/gravitino) [![GitHub_Stars](https://img.shields.io/github/stars/apache/gravitino?style=social&color=white)](https://github.com/apache/gravitino/stargazers)
 - **Overview**: High-performance, geo-distributed federated metadata lakehouse catalog (Apache TLP).
 - **Key Capabilities**: Unified metadata governance across data warehouses, lakes, streaming brokers, and AI models; MCP server for AI agent integrations; fine-grained access control.
 - **Role in Stack**: Multi-cloud metadata backbone connecting data sources to native apps across distributed clouds.
 
-#### 16. [OpenChoreo](https://github.com/openchoreo/openchoreo) [![GitHub stars](https://img.shields.io/github/stars/openchoreo/openchoreo?style=social&color=white)](https://github.com/openchoreo/openchoreo/stargazers)
+#### 16. [OpenChoreo](https://github.com/openchoreo/openchoreo) [![GitHub_Stars](https://img.shields.io/github/stars/openchoreo/openchoreo?style=social&color=white)](https://github.com/openchoreo/openchoreo/stargazers)
 - **Overview**: CNCF Sandbox open-source internal developer platform (IDP) purpose-built for deploying applications on Kubernetes.
 - **Key Capabilities**: Multi-plane architecture (control, runtime, observability), built-in GitOps (FluxCD), CI/CD, Backstage portal integration, self-service databases/queues, and MCP servers for AI agents.
 - **Role in Stack**: Production-grade platform for self-hosting containerized microservices and data applications on Kubernetes.
 
-#### 17. [Flowfile](https://github.com/Edwardvaneechoud/Flowfile) [![GitHub stars](https://img.shields.io/github/stars/Edwardvaneechoud/Flowfile?style=social&color=white)](https://github.com/Edwardvaneechoud/Flowfile/stargazers)
+#### 17. [Flowfile](https://github.com/Edwardvaneechoud/Flowfile) [![GitHub_Stars](https://img.shields.io/github/stars/Edwardvaneechoud/Flowfile?style=social&color=white)](https://github.com/Edwardvaneechoud/Flowfile/stargazers)
 - **Overview**: Visual data pipeline builder with sandboxed Python execution and native Delta Lake integration.
 - **Key Capabilities**: 30+ visual pipeline transformation nodes, Delta Lake versioned storage, Polars acceleration, and standalone script export.
 - **Role in Stack**: Lightweight self-hosted ETL and data transformation engine for powering local and cloud data applications.
@@ -189,7 +189,7 @@ Contributions are welcome and appreciated! Follow these steps to submit addition
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/new-platform-or-tool`.
-3. ✏️ Add or update entries following the table format (include accurate starting prices, free tier details, star badges, and links).
+3. ✏️ Add or update entries following the table format (include accurate starting prices, free tier details, Stars_Badges, and links).
 4. 🧪 Verify that markdown links and image tags render correctly.
 5. 🚀 Submit a **Pull Request** with a concise summary of the changes.
 
